@@ -7,7 +7,6 @@ https://github.com/WiMLDS/python_advanced
 
 ### Step 3:  create a working branch (optional)
 `git branch `
-
 `git branch reshama_wip`
 
 ### Step 4:  switch to working branch (optional)
